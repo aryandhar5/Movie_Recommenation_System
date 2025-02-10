@@ -1,9 +1,12 @@
 import streamlit as st
 import pandas as pd
 import sys
-sys.path.append('./src')  # Ensure Python finds the 'src' module
+import sys
+import os
 
-from recommender import MovieRecommender
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))  # Ensure 'src' is found
+from src.recommender import MovieRecommender
+
 
 
 # Load the recommender model with TMDB & YouTube API keys
