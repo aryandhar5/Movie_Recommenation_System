@@ -1,10 +1,14 @@
+# Core Libraries
 numpy
 pandas
-scikit-learn
+scikit-learn==1.2.2  # Specify an older stable version
 nltk
+
+# Web Framework (UI)
 streamlit
+
+# API Requests (for fetching movie posters)
 requests
 
-# Force reinstall without cache
+# Force reinstall all packages
 --no-cache-dir
-
