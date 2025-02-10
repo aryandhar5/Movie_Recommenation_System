@@ -1,13 +1,10 @@
-# Core Libraries
-
 numpy
 pandas
 scikit-learn
 nltk
-
-
-# Web Framework (UI)
 streamlit
-
-# API Requests (for fetching movie posters)
 requests
+
+# Force reinstall without cache
+--no-cache-dir
+

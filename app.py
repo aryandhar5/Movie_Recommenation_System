@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
-from src.recommender import MovieRecommender
+import sys
+sys.path.append('./src')  # Ensure Python finds the 'src' module
+
+from recommender import MovieRecommender
+
 
 # Load the recommender model with TMDB & YouTube API keys
 TMDB_API_KEY = "eb2c05fba9acb42e7de3a72487b21633"  # Replace with your actual API key
