@@ -22,7 +22,7 @@
 ## 🎯 About the Project  
 This **Movie Recommendation System** helps users find movies similar to their favorite ones. The system uses **Natural Language Processing (NLP)** to analyze movie descriptions and recommends similar movies based on **cosine similarity** of their feature vectors.  
 
-✅ **Live Demo:** [Your Streamlit App URL](https://your-app-url.streamlit.app)  
+✅ **Live Demo:** [Your Streamlit App URL]([https://your-app-url.streamlit.app](https://movierecommenationsystem-jck5fvpqrlhmqoufsfuz8f.streamlit.app/))  
 
 ---
 
