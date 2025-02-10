@@ -3,7 +3,15 @@ import pandas as pd
 import sys
 import sys
 import os
+import os
+import sys
 
+# Force install scikit-learn if missing
+try:
+    import sklearn
+except ModuleNotFoundError:
+    os.system('pip install --no-cache-dir scikit-learn')
+    
 sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))  # Ensure 'src' is found
 from src.recommender import MovieRecommender
 

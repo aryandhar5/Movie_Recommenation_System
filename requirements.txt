@@ -1,0 +1,13 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn==1.2.2  # Force a stable version
+nltk
+requests
+streamlit
+
+# Force reinstall all dependencies
+pip
+setuptools
+wheel
+
