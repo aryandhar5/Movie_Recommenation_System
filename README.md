@@ -1,7 +1,8 @@
 # 🎬 Movie Recommendation System  
 🚀 **A content-based movie recommender system using NLP, Streamlit, Docker, and Streamlit Cloud.**  
 
-![Uploading Screenshot 2025-02-10 204437.png…]()
+![Screenshot 2025-02-10 204437](https://github.com/user-attachments/assets/e3138a9f-3cc2-4ad2-a415-ef6dd68b9a41)
+
 <!-- Replace with a real screenshot of your app -->
 
 ---
