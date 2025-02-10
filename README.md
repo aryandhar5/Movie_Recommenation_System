@@ -1,4 +1,6 @@
-# 🎬 Movie Recommendation System  - Deployed link -  https://movierecommenationsystem-jck5fvpqrlhmqoufsfuz8f.streamlit.app/ 
+# 🎬 Movie Recommendation System  
+
+Deployed link -  https://movierecommenationsystem-jck5fvpqrlhmqoufsfuz8f.streamlit.app/ 
 🚀 **A content-based movie recommender system using NLP, Streamlit, Docker, and Streamlit Cloud.**  
 
 ![Screenshot 2025-02-10 204437](https://github.com/user-attachments/assets/e3138a9f-3cc2-4ad2-a415-ef6dd68b9a41)
