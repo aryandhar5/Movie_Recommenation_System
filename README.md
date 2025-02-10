@@ -9,15 +9,18 @@ Deployed link -  https://movierecommenationsystem-jck5fvpqrlhmqoufsfuz8f.streaml
 
 ---
 
-## 📌 Table of Contents  
-- [About the Project](#about-the-project)  
-- [Tech Stack](#tech-stack)  
-- [Features](#features)  
-- [Installation & Setup](#installation--setup)  
-- [Run with Docker](#run-with-docker)  
-- [Deployment on Streamlit Cloud](#deployment-on-streamlit-cloud)  
-- [Future Improvements](#future-improvements)  
-- [Author](#author)  
+## 📌 Project Structure  
+- MovieRecommender/
+│── data/
+│   ├── tmdb_5000_movies.csv
+│   ├── tmdb_5000_credits.csv
+│── src/
+│   ├── data_preprocessing.py
+│   ├── recommender.py
+│── app.py
+│── requirements.txt
+│── README.md
+
 
 ---
 
@@ -55,3 +58,4 @@ This **Movie Recommendation System** helps users find movies similar to their fa
 ```sh
 git clone https://github.com/aryandhar5/Movie_Recommendation_System.git
 cd Movie_Recommendation_System
+
