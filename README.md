@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System  
+# 🎬 Movie Recommendation System  - https://movierecommenationsystem-jck5fvpqrlhmqoufsfuz8f.streamlit.app/ 
 🚀 **A content-based movie recommender system using NLP, Streamlit, Docker, and Streamlit Cloud.**  
 
 ![Screenshot 2025-02-10 204437](https://github.com/user-attachments/assets/e3138a9f-3cc2-4ad2-a415-ef6dd68b9a41)
@@ -22,7 +22,6 @@
 ## 🎯 About the Project  
 This **Movie Recommendation System** helps users find movies similar to their favorite ones. The system uses **Natural Language Processing (NLP)** to analyze movie descriptions and recommends similar movies based on **cosine similarity** of their feature vectors.  
 
-✅ **Live Demo:** [Your Streamlit App URL]([https://your-app-url.streamlit.app](https://movierecommenationsystem-jck5fvpqrlhmqoufsfuz8f.streamlit.app/))  
 
 ---
 
