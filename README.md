@@ -25,14 +25,24 @@ This **Movie Recommendation System** helps users find movies similar to their fa
 ## 🛠️ Tech Stack  
 
 ### **Programming Languages & Libraries:**  
-✅ Python (3.9)  
-✅ NLP: `scikit-learn`, `nltk`  
-✅ Data Handling: `pandas`, `numpy`  
-✅ Web Framework: `streamlit`  
+✅ **Python (3.9)**  
+✅ **NLP & Machine Learning:** TF-IDF, Cosine Similarity, Scikit-learn, NLTK  
+✅ **Data Processing:** Pandas, NumPy  
+
+### **Web Development:**  
+✅ **Streamlit** - Interactive UI for recommendations  
+
+### **API Integrations:**  
+✅ **TMDB API** - Fetching movie posters  
+✅ **YouTube API** - Fetching movie trailers  
 
 ### **Infrastructure & Deployment:**  
-✅ **Docker** - Containerizing the application  
-✅ **Streamlit Cloud** - Free hosting  
+✅ **Docker** - Containerization for scalability  
+✅ **Streamlit Cloud** - Free hosting for accessibility  
+
+### **Version Control & Collaboration:**  
+✅ **GitHub** - Code management and version control  
+
 
 ---
 
