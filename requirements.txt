@@ -1,5 +1,6 @@
 # Core Libraries
-numpy
+numpy==1.23.5  # Compatible version for sklearn
+
 pandas
 scikit-learn==1.2.2  # Force a stable version
 nltk
