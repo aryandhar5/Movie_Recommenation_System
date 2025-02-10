@@ -10,16 +10,8 @@ Deployed link -  https://movierecommenationsystem-jck5fvpqrlhmqoufsfuz8f.streaml
 ---
 
 ## 📌 Project Structure  
-- MovieRecommender/
-│── data/
-│   ├── tmdb_5000_movies.csv
-│   ├── tmdb_5000_credits.csv
-│── src/
-│   ├── data_preprocessing.py
-│   ├── recommender.py
-│── app.py
-│── requirements.txt
-│── README.md
+- ![Screenshot 2025-02-10 230408](https://github.com/user-attachments/assets/1685d88c-e156-462d-9726-9ed4f540f3a1)
+
 
 
 ---
